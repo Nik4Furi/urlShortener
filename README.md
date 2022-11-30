@@ -1,4 +1,5 @@
-# <h1 id="urlShortener"> urlShortener </h1>
+# <h1> <span id="urlShortener"> urlShortener </span> <img src="https://user-images.githubusercontent.com/91304976/204721678-c0d6d0e0-16e0-4ae9-9738-cbc10261f509.png" width="40" alt="urlShortener_home"/></h1>
+
 ### A react app, which is work with the help of  <a href="https://github.com/Nik4furi/url-shortener-api">url-shortener-api</a>
 urlShortener, is react app , which is used for short any kind of urls ,this url basically easily understand and remberable. But any url valid or save upto last 24 hours.
 
@@ -8,10 +9,9 @@ urlShortener, is react app , which is used for short any kind of urls ,this url 
 ####   <p><a href="#demo" >Demo</a></p>
 ####   <p><a href="#stack" >Tech Stack</a></p>
 ####   <p><a href="#runLocally" >Run Locally</a></p>
-####   <p><a href="#envVar" >Environment Variables</a></p>
 ####   <p><a href="#colorsRef" >Color References</a></p>
-####   <p><a href="#apiRef" >api References</a></p>
-####   <p><a href="#components" >components/Examples</a></p>
+####   <p><a href="#apiRef" >API References</a></p>
+####   <p><a href="#components" >Components/Examples</a></p>
 ####   <p><a href="#features" >Features</a></p>
 ####   <p><a href="#relatedProjects" >Related Projects</a></p>
 
@@ -28,8 +28,7 @@ urlShortener, is react app , which is used for short any kind of urls ,this url 
 
 
 <p text-align=left>
-  <img src="https://user-images.githubusercontent.com/91304976/203487604-039a41aa-c4ae-4fad-b76e-1b72ce7f0f78.png" width="400" height="" alt="urlShortener_home"/> 
-
+  <img src="https://user-images.githubusercontent.com/91304976/204721877-6cbaa9d2-bb18-4ebf-bfa9-35b198afc6ed.png" width="400" height="" alt="urlShortener_home"/> 
 </p>
 
 <a href="#urlShortener">Go Home </a>
@@ -39,7 +38,7 @@ urlShortener, is react app , which is used for short any kind of urls ,this url 
 ## <h2 id="demo" >Demo </h2>
 
 <p text-align=left>
-  <img src="https://user-images.githubusercontent.com/91304976/203494510-77735dad-2653-4835-8d86-8915b384abeb.gif" width="500" height="" alt="urlShortener_home"/>
+  <img src="https://user-images.githubusercontent.com/91304976/204722243-26ab6d3e-5f5d-4948-8768-99f6e09d1c55.gif" width="500" height="" alt="urlShortener_home"/>
       
  </p> 
 
@@ -117,7 +116,6 @@ Start the server
 | Parameter | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
 | -     | `POST` | Add a url, input by the users |
-`
 
 
 <a href="#urlShortener">Go Home </a>
